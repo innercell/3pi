@@ -1,0 +1,197 @@
+2h fragment pooling	0.455904
+3 hybrid method	0.265407
+adenylate cyclase	0.666667
+affinity chrom	0.823077
+Affinity chromatogiraphy technology	0.823077
+affinity chromatography technologies	0.823077
+Affinity Precipitation	0.455904
+affinity techniques	0.455904
+affinity technologies	0.455904
+anti bait cocoimmunoprecipitation	0.891473
+anti bait coip	0.891473
+antibody array	0.891473
+anti tag cocoimmunoprecipitation	0.891473
+anti tag coip	0.891473
+array technology	0.455904
+autoradiography	0.666667
+beta galactosidase	0.666667
+beta galactosidase complementation	0.666667
+beta lactamase complementation	0.666667
+bifc	0.455904
+bimolecular fluorescence complementation	0.455904
+Biochemical Assay	0.666667
+bioluminescence resonance energy transfer	0.265407
+biophysical	0.265407
+blue native page	0.455904
+bn-page	0.455904
+bret	0.265407
+cd	0.265407
+ch-ip	0.5
+chromatography	0.823077
+chromatography technologies	0.823077
+circular dichroism	0.5
+classical fluorescence spectroscopy	0.265407
+cocoimmunoprecipitation	0.891473
+Co-crystal Structure	0.891473
+Co-fractionation	0.823077
+coimmunoprecipitation	0.891473
+coip	0.891473
+colocalization	0.5
+colocalization by fluorescent probes cloning	0.5
+comig non denat gel	0.455904
+comigration in gel	0.455904
+comigration in non denaturing gel electrophoresis	0.455904
+comigration in sds	0.455904
+competition binding	0.823077
+competition-binding	0.823077
+complementation	1
+confocal microscopy	0.5
+copurification	0.891473
+Co-purification	0.891473
+cosedimentation	0.891473
+cosedimentation in solution	0.891473
+cosedimentation through density gradients	0.891473
+crosslink	0.5
+cross-linking study	0.5
+cross-linking study studies	0.5
+deacetylase assay	0.666667
+demethylase assay	0.666667
+density sedimentatio	0.891473
+dhfr reconstruction	0.666667
+dihydrofolate reductase reconstruction	0.666667
+display technologies	0.455904
+dls	0.265407
+Dosage Growth Defect	0.37386
+Dosage Lethality	0.37386
+Dosage Rescue	1
+dynamic light scattering	0.265407
+electron microscopy	0.5
+electron-microscopy	0.5
+electrophoretic mobility shift assay	0.666667
+elisa	0.666667
+emsa supershift	0.666667
+enzymatic studies	0.666667
+enzymatic study	0.666667
+enzyme linked immunosorbent assay	0.666667
+experimental interac	0.666667
+experimental interaction detection	0.666667
+experimental knowledge based	0.265407
+facs	0.455904
+far-western	0.455904
+Far Western	0.455904
+far western blotting	0.455904
+fcs	0.455904
+filter binding	0.891473
+fluorescence	0.455904
+fluorescence-activated cell sorting	0.455904
+fluorescence-anisotropy	0.265407
+fluorescence imaging	0.5
+fluorescence microscopy	0.5
+fluorescence polarization spectroscopy	0.265407
+fluorescence spectr	0.265407
+fluorescence technologies	0.265407
+fluorescent resonance energy transfer	0.265407
+footprinting	0.5
+fps	0.666667
+fret	0.5
+FRET	0.5
+gal4 vp16 complement	0.5
+gallex	0.265407
+gel-filtration-chromatography	0.823077
+gel-retardation-assays	0.455904
+genetic interference	0.37386
+gfp complementation	0.5
+gst pull down	0.455904
+gtpase assay	0.666667
+his pull down	0.455904
+htrf	0.666667
+hybridization	0.455904
+IA:0330(colocalization	0.5
+IA:0339(colocalization	0.5
+imaging techniques	0.5
+immunoblotting	0.455904
+immunostaining	0.455904
+inferred by author	0.265407
+inferred by curator	0.265407
+in gel kinase assay	0.666667
+interaction-adhesion-assay	0.455904
+interaction prediction	0.265407
+in vitro	0.265407
+in vitro	0.265407
+in vivo	0.265407
+ion exchange chrom	0.823077
+ion exchange chromatography	0.823077
+isothermal titration calorimetry	0.265407
+itc	0.265407
+kinase htrf	0.666667
+lambda phage	0.455904
+lambda phage display	0.455904
+light scattering	0.265407
+light-scattering	0.265407
+mappit	0.265407
+mass-spectrometry	0.265407
+mass spectrometry studies of complexes	0.265407
+methyltransferase as	0.666667
+methyltransferase assay	0.666667
+molecular sieving	0.823077
+ms of complexes	0.265407
+nmr	0.265407
+nuclear magnetic resonance	0.265407
+null	0
+one hybrid	0.265407
+other	0.265407
+other Biochemical Assay technologies	0.666667
+PCA	0.455904
+peptide array	0.455904
+phage display	0.455904
+Phenotypic Enhancement	0.37386
+Phenotypic Suppression	0.37386
+phosphatase assay	0.666667
+protease assay	0.666667
+protein array	0.455904
+protein complementation assay	0.666667
+protein crosslink	0.5
+protein cross-linking study with a bifunctional reagent	0.5
+protein kinase assay	0.666667
+Protein-peptide	0.455904
+Protein-RA	0.265407
+protein tri hybrid	0.265407
+pull down	0.455904
+radiolabeled methyl	0.666667
+Reconstituted Complex	0.5
+resonance-energy-transfer	0.265407
+reverse phase chrom	0.823077
+reverse two hybrid	0.265407
+saturation binding	0.455904
+saxs	0.265407
+scintillation proximity assay	0.265407
+sem	0.5
+sls	0.265407
+solid phase assay	0.823077
+solution sedimentati	0.455904
+spr	0.265407
+sucrose-gradient-sedimentation	0.455904
+surface plasmon resonance	0.265407
+surface-plasmon-resonance-chip	0.265407
+Synthetic Growth Defect	0.37386
+Synthetic Haploinsufficiency	0.37386
+Synthetic Lethality	0.37386
+Synthetic Rescue	1
+t7 phage	0.455904
+t7 phage display	0.455904
+tandem affinity purification	0.823077
+tap	0.823077
+tap tag cocoimmunoprecipitation	0.5
+three-dimensional-structure	0.265407
+toxcat	0.265407
+transcriptional complementation assay	0.265407
+transcription compl	0.265407
+transient-coexpression	0.265407
+two hybrid	0.265407
+two hybrid pooling	0.265407
+ubiquitin reconstruction	0.265407
+ub reconstruction	0.265407
+unspecified role	0.265407
+x-ray crystallography	0.265407
+x-ray diffraction	0.265407
+yeast display	0.265407
