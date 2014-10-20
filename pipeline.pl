@@ -37,15 +37,15 @@ sub main(){
       runPEIMAP();
    #$pm->finish;
    #$pm->start and next;
-      #runPFAM();
+      runPFAM();
    #$pm->finish;
    #$pm->start and next;
-      #runPSIMAP();
+      runPSIMAP();
    #$pm->finish;
 	
    
    
-   #scoreFinal();	
+   scoreFinal();	
 
 }
 main();
@@ -199,5 +199,5 @@ sub runPSIMAP(){
 }
 
 sub scoreFinal(){
-
+   #rollback version
 }
